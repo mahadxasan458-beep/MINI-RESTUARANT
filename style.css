@@ -1,0 +1,10 @@
+.rinjiga{
+    background-color: rgb(173, 182, 188);color: black;
+}
+*{
+    font-family: none, none, none;background-color: rgb(173, 182, 188);
+    font-weight: normal;
+}
+a{
+    display: inline-block;margin: 10px; text-decoration: none;
+}
